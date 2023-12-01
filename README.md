@@ -1,2 +1,3 @@
 # Calculator
- simple unit conversion and matrix calculator
+Simple unit conversion and matrix calculator.
+You can store the history of the calculation.
