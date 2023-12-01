@@ -1,0 +1,68 @@
+User is converting Celcius to Fahrenheit: -40.00 C = -40.00F
+User is converting Celcius to Kelvin: 0.00 C = 273.00K
+User is converting INR rupee to NPR: INR 50.00 = NPR 80.00
+User is converting Kuwiat dinar to NPR: DINAR 500.00 = NPR 258762.00
+User is converting Austrilian Dollar to NPR: AUD 600.00 = NPR 51132.00
+User is converting Malayasian Ringgit to NPR: RM 63.00 = NPR 1800.54
+User is converting EURO to NPR: EURO 69.00 = NPR 9991.89
+User is converting Kuwiat dinar to NPR: DINAR 21.00 = NPR 9056.67
+User is converting Gram to Kilogram: 1550.00 G = 1.55 Kg
+User is converting Kilogram to Pound: 1.50 Kg = 3.31 lbs
+User is converting Ounce to Kilogram: 500.00 Oz = 14.17 Kg
+User is converting Gram to Kilogram: 12.00 G = 0.01 Kg
+User is converting Decimal to Hexadecimal: 10 = A
+User is converting Decimal to Binary: 10 = 1010
+User is converting Hexadecimal to Decimal: A = 10
+User is converting foot to M: 12.00 foot =3.66 m
+User is converting M to CM: 10.00 cm =1000.000 m
+User is converting M to Foot: 1.00 M =3.28 Foot
+User is converting M to CM: 10.00 M =1000.000 Cm
+User is converting Pound to Kilogram: 69.00 lbs = 31.29 kg
+User is converting Kilogram to Pound: 31.29 Kg = 68.99 lbs
+User is converting Fahrenheit to Celcius: 23.00 K = -250.00C
+User is converting Nepali Rupees to US Dollar: NPR 10.00 = USD 0.08
+User is converting Kuwiat dinar to NPR: DINAR 39.00 = NPR 16819.53
+User is converting Pound to Kilogram: 23.00 lbs = 10.43 kg
+User is converting Hexadecimal to Decimal: F = 15
+User is converting Binary to Decimal: 10 = 2
+User is adding two matrix
+
+Matrix:
+1	1	
+1	1	
+
+Matrix:
+1	1	
+1	1	
+
+Sum:
+2	2	
+2	2	
+User is multiplying a  matrix by a scalar 5:
+
+Matrix:
+1	2	
+3	4	
+5	10	
+15	20	
+User is Multiplying two matrices
+
+Matrix:
+-2	1	
+0	4	
+
+Matrix:
+6	5	
+-7	1	
+
+Matrix Multiplicaton:
+1642748224	1642748224	
+1642748224	1642748224	
+
+User is converting Decimal to Hexadecimal: 15 = FUser is finding the determinant of matrix
+
+Matrix:
+1	0	
+0	1	
+
+User is converting US Dollar to NPR: USD 360.00 = NPR 47833.20
